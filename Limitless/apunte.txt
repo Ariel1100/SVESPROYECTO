@@ -1,0 +1,1 @@
+una vez concluido el proyecto eliminar los archivos html de la carpeta "full"
